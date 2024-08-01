@@ -1,6 +1,4 @@
-# pipelines
-sklearn pipelines 
-
+# skelarn pipelines
 
 - **Streamlined Workflow:** Automates the entire machine learning workflow, from data preprocessing to model training and evaluation.
 - **Modularity:** Allows for the modular design of machine learning processes, enabling easy swapping of components and hyperparameter tuning.
